@@ -1,0 +1,11 @@
+C:\Users\grand\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.csprojAssemblyReference.cache
+C:\Users\grand\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.AssemblyInfoInputs.cache
+C:\Users\grand\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.AssemblyInfo.cs
+C:\Users\grand\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.exe
+C:\Users\grand\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.deps.json
+C:\Users\grand\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.runtimeconfig.json
+C:\Users\grand\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.runtimeconfig.dev.json
+C:\Users\grand\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.dll
+C:\Users\grand\source\repos\MVCLab\MVCLab\bin\Debug\netcoreapp3.1\MVCLab.pdb
+C:\Users\grand\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.dll
+C:\Users\grand\source\repos\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.pdb
