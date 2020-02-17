@@ -11,15 +11,7 @@ namespace MVCLab
         public string Name { get; set; }
         public string Continent { get; set; }
         public List<string> Colors = new List<string>();
-        
-        //public string Color1 { get; set; }
-        //public string Color2 { get; set; }
-        //public string Color3 { get; set; }
-        
-
-       
-
-       
+               
     }
 }
 

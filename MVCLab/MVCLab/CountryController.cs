@@ -35,7 +35,7 @@ namespace MVCLab
 
             while (run)
             {
-                Console.WriteLine("Hello, welcome to the country app. Please select from the following list: ");
+                Console.WriteLine("Hello, welcome to the country app. Please select a country from the following list: ");
                 cl.Display();
                 try
                 {

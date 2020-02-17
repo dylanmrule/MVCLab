@@ -14,7 +14,12 @@ namespace MVCLab
         }
         public void Display()
         {
-            Console.WriteLine($"Name: {DisplayCountry.Name}\nContinent: {DisplayCountry.Continent}\nColors: {DisplayCountry.Colors}");
+            Console.WriteLine($"Name: {DisplayCountry.Name}\nContinent: {DisplayCountry.Continent}");
+            foreach (String color in DisplayCountry.Colors)
+            {
+                Console.WriteLine("Colors: "+ color);
+            }
         }
     }
 }
+//\nColors: {DisplayCountry.Colors}

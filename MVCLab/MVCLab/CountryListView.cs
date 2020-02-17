@@ -16,7 +16,7 @@ namespace MVCLab
         {
             for (int i = 0; i < Countries.Count; i++)
             {
-                Console.WriteLine($"Index: {i} \nCountry names: {Countries[i].Name}");
+                Console.WriteLine($"Index: {i} \nCountry name: {Countries[i].Name}");
             }
 
         }
